@@ -1,0 +1,20 @@
+# IntelliJ-specific files
+.idea/
+
+# Compiled files
+target/
+*.class
+
+# Logs
+logs/
+*.log
+
+# IDE-specific files
+.iml
+.idea
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
